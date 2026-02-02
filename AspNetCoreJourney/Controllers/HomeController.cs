@@ -11,7 +11,31 @@ namespace AspNetCoreJourney.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult News()
+        {
+            return View();
+        }
+        public IActionResult Catalog()
+        {
+            return View();
+        }
+
+        public IActionResult AboutUs()
+        {
+            return View();
+        }
+
+        public IActionResult Support()
+        {
+            return View();
+        }
+
+        public IActionResult Downloads()
+        {
+            return View();
+        }
+
+        public IActionResult Contacts()
         {
             return View();
         }
