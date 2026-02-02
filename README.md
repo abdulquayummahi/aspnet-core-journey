@@ -8,7 +8,7 @@ Each folder in this solution represents a specific topic or milestone in my lear
 * **Goal:** To master ASP.NET Core web development.
 * **Approach:** "Learn by doing" — every major concept has its own code implementation.
 * **IDE:** Visual Studio 2022
-* **Framework:** .NET 8 / .NET 9 (Core)
+* **Framework:** .NET 10 (Core)
 
 ---
 
