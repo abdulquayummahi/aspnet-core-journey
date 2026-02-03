@@ -1,3 +1,7 @@
 <Solution>
   <Project Path="AspNetCoreJourney/AspNetCoreJourney.csproj" />
+  <Project Path="ModelPractice/ModelPractice.csproj" Id="8faf5cf7-5cc3-460c-a8fa-0ec747e0c26f" />
+  <Project Path="MultipleModelPass/MultipleModelPass.csproj" Id="26dc3fc0-edb5-4fa6-b80d-631bb7b9fc86" />
+  <Project Path="StronglyTypeView/StronglyTypeView.csproj" Id="679fafa0-ae05-4652-b141-be5e3954ee3a" />
+  <Project Path="ViewData/ViewData.csproj" Id="a91b1503-30ae-4dfc-b713-2d31af69066c" />
 </Solution>

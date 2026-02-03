@@ -1,0 +1,15 @@
+﻿@model ModelPractice.Models.Student
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-left">
+    <h1 class="display-4 text-center">Student Details</h1>
+    <hr/>
+    <h3>ID    : @Model.Id</h3>
+    <h3>Name  : @Model.Name</h3>
+    <h3>Age   : @Model.Age</h3>
+    <h3>Gender: @Model.Gender</h3>
+    <h3>Course: @Model.Course</h3>
+    <h3>Fee   : @Model.Fee</h3>
+</div>
