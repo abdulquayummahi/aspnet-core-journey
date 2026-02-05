@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@{
+    var total = ViewBag.Fee + ViewBag.Fee* ViewBag.Vat;
+}
+
+<div class="container">
+    <h1>Student Information</h1>
+    <p>Registration No: @ViewBag.RegistrationNo</p>
+    <p>Name: @ViewBag.Name</p>
+    <p>Course: @ViewBag.Course</p>
+    <p>Fee: @ViewBag.Fee</p>
+    <p>VAT: @ViewBag.Vat</p>
+    <p>Total: @total</p>
+</div>
